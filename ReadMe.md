@@ -4,7 +4,7 @@ WebKit is an open source web browser engine. WebKit's HTML and JavaScript code b
 
 The Qt port of WebKit currently compiles and runs on Linux, *BSD, Windows and macOS.
 
-## Structure of the project
+## Structure of the project 
 
 There are several code repositories associated with QtWebKit
 
